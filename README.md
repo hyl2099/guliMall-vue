@@ -1,4 +1,5 @@
-# mall-vue
+# guliMall-vue前端页面
+自学谷粒商城的前端页面，从0开始学VUE框架
 
 > A Vue.js project
 
